@@ -1,4 +1,4 @@
-package com.blog.app.cart;
+package com.blog.app.product;
 
 import java.util.List;
 
